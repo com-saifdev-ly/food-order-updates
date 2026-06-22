@@ -1,0 +1,6 @@
+{
+"latest": {
+    "windows": "https://github.com/com-saifdev-ly/food-order/releases/latest/download/FoodOrder-windows-setup.exe",
+    "android": "https://github.com/com-saifdev-ly/food-order/releases/latest/download/FoodOrder-android.apk"
+  }
+}
